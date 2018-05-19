@@ -15,6 +15,7 @@ Build my smart farm system in cloud! My system should satisfy following requirem
 “youtube” movie of my demonstration -> https://youtu.be/Bgu41zPt5s4
 
 the screen showing data statistics on the web server.
+
 <img width="481" alt="web" src="https://user-images.githubusercontent.com/22023699/40271695-cc017faa-5bdb-11e8-84b7-dad5f89b043c.png">
 
 the screen showing temperature and lightness data.
