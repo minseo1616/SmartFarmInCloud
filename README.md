@@ -14,6 +14,9 @@ Build my smart farm system in cloud! My system should satisfy following requirem
 - Collect data for more than 1 minute. 
 
 “youtube” movie of my demonstration -> https://youtu.be/Bgu41zPt5s4
+1) Turn on FAN when the temperature goes beyond 27 degrees for 5 second.
+2) Turn on LED when the lightness goes below 900 and turn off it otherwise.
+3) Turn on FAN and LED
 
 the screen showing data statistics on the web server.
 
